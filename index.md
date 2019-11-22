@@ -1,4 +1,2 @@
 We don't need no education!
-\begin{equation}
-u_k (t)=√(2/T) A_ki  cos⁡(2πf_k t)-√(2/T) A_ki  sin⁡(2πf_k t)=Re[√(2/T) X_k e^(j2πf_k t) ]
-\end{equation}
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
