@@ -1,2 +1,7 @@
-We don't need no education!
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+**generator:**
+```python
+M=[[1,2,3],[4,5,6],[7,8,9]]
+
+G=(sum(row) for row in M)
+```
+
