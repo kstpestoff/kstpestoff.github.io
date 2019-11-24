@@ -24,6 +24,9 @@ map(sum, M)
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: 'str' object does not support item assignment
+```
+Только через list
+```python
 >>> L=list(s)
 >>> L
 ['f', 'r', 'a', 'u', 'n', 'g', 'h', 'o', 'f', 'e', 'r']
