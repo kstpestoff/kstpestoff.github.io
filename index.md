@@ -77,4 +77,6 @@ if (x<y) and (y<z):
 ```
 #python 
 
-```latex X_k```
+```latex 
+X_k
+```
