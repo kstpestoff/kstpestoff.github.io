@@ -1,3 +1,4 @@
+include mathjax_support
 
 ***Заметка 1  ***
 
