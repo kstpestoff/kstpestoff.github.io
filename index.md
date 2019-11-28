@@ -9,7 +9,9 @@ M = [[1,2,3],[4,5,6],[7,8,9]]
 G=(sum(row) for row in M)
 ```
 #python 
-
+{% raw %}
+$$a^2 + b^2 = c^2$$
+{% endraw %}  
 ***Заметка 2***
 ```python
 map(sum, M)
