@@ -11,9 +11,7 @@ M = [[1,2,3],[4,5,6],[7,8,9]]
 G=(sum(row) for row in M)
 ```
 #python 
-{% raw %}
-$$a^2 + b^2 = c^2$$
-{% endraw %}
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 ***Заметка 2***
 ```python
