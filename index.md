@@ -1,4 +1,4 @@
-***Заметка 1***
+***Заметка 21***
 
 {% raw %}
 $$a^2 + b^2 = c^2$$
@@ -13,7 +13,8 @@ G=(sum(row) for row in M)
 #python 
 {% raw %}
 $$a^2 + b^2 = c^2$$
-{% endraw %}  
+{% endraw %}
+
 ***Заметка 2***
 ```python
 map(sum, M)
