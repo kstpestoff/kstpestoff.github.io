@@ -1,9 +1,7 @@
 <html>
   <head>
-    {% include html_meta %}
     <title>How to use MathJax in Jekyll generated Github pages -- Haixing Hu's Homepage</title>
     {% if page.use_math %}
-      {% include mathjax_support %}
     {% endif %}
   </head>
   <body>
