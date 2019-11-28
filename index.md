@@ -13,7 +13,7 @@
     {% include navigation_bar %}
     <div class="container-narrow">
       <div class="content">
-        ***Заметка 2***
+        ***Заметка 1***
 
         {% raw %}
         $$a^2 + b^2 = c^2$$
