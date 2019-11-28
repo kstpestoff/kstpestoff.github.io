@@ -7,9 +7,6 @@
     {% endif %}
   </head>
   <body>
-    {% include navigation_bar %}
-    <div class="container-narrow">
-      <div class="content">
         ***Заметка 1  ***
 
         {% raw %}
@@ -138,10 +135,5 @@
         L4=copy.copy(L1)    
         ```
         #python
-      </div>
-      <hr/>
-      {% include footer %}
-    </div>
-    {% include JB/analytics %}
   </body>
 </html>
