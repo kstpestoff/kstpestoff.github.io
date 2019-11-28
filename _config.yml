@@ -12,7 +12,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: maruku
+#markdown: maruku
 
 collections:
   episodes:
