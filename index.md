@@ -1,4 +1,29 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
 ***Заметка 1***
+
+{% raw %}
+$$a^2 + b^2 = c^2$$
+{% endraw %}  
 
 **generator:**
 ```python
@@ -7,6 +32,8 @@ M = [[1,2,3],[4,5,6],[7,8,9]]
 G=(sum(row) for row in M)
 ```
 #python 
+
+$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 ***Заметка 2***
 ```python
