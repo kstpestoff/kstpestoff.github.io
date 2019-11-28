@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Python глазами сишника
+#title: Python глазами сишника
 email: kstpestoff@gmail.com
 
 twitter_username: jekyllrb
