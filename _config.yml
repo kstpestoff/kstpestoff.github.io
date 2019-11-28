@@ -36,7 +36,6 @@ theme: minima
 markdown: kramdown 
 kramdown:
   math_engine: mathjax
-    mathjax: true
   syntax_highlighter: rouge
 # Exclude from processing.
 # The following items will not be processed, by default.

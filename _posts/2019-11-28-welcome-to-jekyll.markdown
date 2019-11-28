@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title:  "Welcome to Jekyll!"
 date:   2019-11-28 16:21:51 +0300
 categories: jekyll update
