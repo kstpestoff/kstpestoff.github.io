@@ -31,8 +31,10 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-#plugins:
-# - jekyll-feed
+plugins:
+ - jekyll-feed
+ - jekyll-mathjax-csp
+ 
 markdown: kramdown 
 kramdown:
   math_engine: mathjax
